@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LargeFileSorter": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../../LargeFileGenerator/bin/Release/net8.0/test.txt ./testSorted.txt"
+    }
+  }
+}

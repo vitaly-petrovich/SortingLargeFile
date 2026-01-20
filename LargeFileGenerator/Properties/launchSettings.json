@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LargeFileGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "test.txt 10000000"
+    }
+  }
+}

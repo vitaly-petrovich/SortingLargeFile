@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LargeFileSortingChecker": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../../LargeFileSorter/bin/Release/net8.0/testSorted.txt"
+    }
+  }
+}
